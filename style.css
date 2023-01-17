@@ -1,0 +1,15 @@
+body{
+background-color: aqua;
+}
+#score{
+    font-size: medium;
+    margin-left: 10px;
+}
+#time{
+    font-size: medium;
+    float:right;
+    margin-right: 10px;
+}
+#sketchDrawn{
+    color: black;
+}
